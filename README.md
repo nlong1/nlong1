@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h3>ABOUT ME</h3>
+[![Photo](githubprof.png)](https://github.com/nlong1/nlong1/blob/main/githubprof.png)
 
 <!--
 **nlong1/nlong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
