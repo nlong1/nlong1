@@ -8,7 +8,7 @@
 - 🏃 Running enthusiast
 
 ## I have experience in:
-![My Skills](https://skillicons.dev/icons?i=java,python,cpp,mysql,sqlite,linux,bash,pytorch,git,github&perline=12)
+![My Skills](https://skillicons.dev/icons?i=java,python,cpp,mysql,linux,bash,pytorch,git,github&perline=12)
 
 ## Check out some of my projects:
 - Julia Numerical Rootfinder
